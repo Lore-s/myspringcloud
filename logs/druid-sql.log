@@ -1,0 +1,211 @@
+[2020-03-11 16:56:25] DEBUG 137 statementLog - {conn-10005, pstmt-20000} created. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 16:56:25] DEBUG 134 statementLog - {conn-10005, pstmt-20000} created. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 16:56:25] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 16:56:25] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 16:56:25] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 16:56:25] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 16:56:25] DEBUG 137 statementLog - {conn-10005, pstmt-20000} executed. 56.640302 millis. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 16:56:25] DEBUG 134 statementLog - {conn-10005, pstmt-20000} executed. 57.75477 millis. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 16:56:25] DEBUG 134 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 16:56:25] DEBUG 137 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 16:57:51] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 16:57:51] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 16:57:51] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 16:57:51] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 16:57:51] DEBUG 137 statementLog - {conn-10005, pstmt-20000} executed. 1.923164 millis. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 16:57:51] DEBUG 134 statementLog - {conn-10005, pstmt-20000} executed. 2.615537 millis. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 16:57:51] DEBUG 134 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 16:57:51] DEBUG 137 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 16:57:54] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 16:57:54] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 16:57:54] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 16:57:54] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 16:57:54] DEBUG 137 statementLog - {conn-10005, pstmt-20000} executed. 1.899215 millis. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 16:57:54] DEBUG 134 statementLog - {conn-10005, pstmt-20000} executed. 2.293513 millis. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 16:57:54] DEBUG 134 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 16:57:54] DEBUG 137 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 16:59:58] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 16:59:58] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 16:59:58] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 16:59:58] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 16:59:58] DEBUG 137 statementLog - {conn-10005, pstmt-20000} executed. 2.881538 millis. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 16:59:58] DEBUG 134 statementLog - {conn-10005, pstmt-20000} executed. 3.410119 millis. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 16:59:58] DEBUG 134 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 16:59:58] DEBUG 137 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 17:19:04] DEBUG 137 statementLog - {conn-10005, pstmt-20000} closed
+[2020-03-11 18:18:57] DEBUG 137 statementLog - {conn-10005, pstmt-20000} created. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 18:18:57] DEBUG 134 statementLog - {conn-10005, pstmt-20000} created. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 18:18:57] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 18:18:57] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 18:18:57] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 18:18:57] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 18:18:57] DEBUG 137 statementLog - {conn-10005, pstmt-20000} executed. 138.463848 millis. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 18:18:57] DEBUG 134 statementLog - {conn-10005, pstmt-20000} executed. 139.127995 millis. SELECT address_no,a_name,db_source,deleted FROM address WHERE null=?
+[2020-03-11 18:18:57] DEBUG 134 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 18:18:57] DEBUG 137 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 18:22:54] DEBUG 137 statementLog - {conn-10005, pstmt-20000} created. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 18:22:54] DEBUG 134 statementLog - {conn-10005, pstmt-20000} created. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 18:22:54] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 18:22:54] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 18:22:54] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 18:22:54] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 18:22:54] DEBUG 137 statementLog - {conn-10005, pstmt-20000} executed. 38.446143 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 18:22:54] DEBUG 134 statementLog - {conn-10005, pstmt-20000} executed. 39.341651 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 18:22:54] DEBUG 134 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 18:22:54] DEBUG 137 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 18:24:55] DEBUG 137 statementLog - {conn-10005, pstmt-20000} closed
+[2020-03-11 18:25:35] DEBUG 137 statementLog - {conn-10005, pstmt-20000} created. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 18:25:35] DEBUG 134 statementLog - {conn-10005, pstmt-20000} created. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 18:25:35] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 18:25:35] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 18:25:35] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 18:25:35] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 18:25:35] DEBUG 137 statementLog - {conn-10005, pstmt-20000} executed. 19.914161 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 18:25:35] DEBUG 134 statementLog - {conn-10005, pstmt-20000} executed. 20.575742 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 18:25:35] DEBUG 134 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 18:25:35] DEBUG 137 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 18:41:53] DEBUG 137 statementLog - {conn-10005, pstmt-20000} closed
+[2020-03-11 18:45:18] DEBUG 137 statementLog - {conn-10005, pstmt-20000} created. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 18:45:18] DEBUG 134 statementLog - {conn-10005, pstmt-20000} created. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 18:45:18] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 18:45:18] DEBUG 134 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 18:45:18] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Parameters : [1]
+[2020-03-11 18:45:18] DEBUG 137 statementLog - {conn-10005, pstmt-20000} Types : [INTEGER]
+[2020-03-11 18:45:18] DEBUG 137 statementLog - {conn-10005, pstmt-20000} executed. 27.456704 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 18:45:18] DEBUG 134 statementLog - {conn-10005, pstmt-20000} executed. 28.156775 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 18:45:18] DEBUG 134 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 18:45:18] DEBUG 137 statementLog - {conn-10005, pstmt-20000} clearParameters. 
+[2020-03-11 21:42:34] DEBUG 137 statementLog - {conn-10005, stmt-20000} created
+[2020-03-11 21:42:35] DEBUG 137 statementLog - {conn-10005, stmt-20000, rs-50000} query executed. 552.078059 millis. /* ping */ SELECT 1
+[2020-03-11 21:42:35] DEBUG 134 statementLog - {conn-10005, stmt-20000, rs-50000} query executed. 554.221036 millis. /* ping */ SELECT 1
+[2020-03-11 21:42:35] DEBUG 137 statementLog - {conn-10005, stmt-20000} closed
+[2020-03-11 23:03:39] DEBUG 137 statementLog - {conn-10005, stmt-20000} created
+[2020-03-11 23:03:40] DEBUG 137 statementLog - {conn-10005, stmt-20000, rs-50000} query executed. 662.508724 millis. /* ping */ SELECT 1
+[2020-03-11 23:03:40] DEBUG 134 statementLog - {conn-10005, stmt-20000, rs-50000} query executed. 664.196248 millis. /* ping */ SELECT 1
+[2020-03-11 23:03:40] DEBUG 137 statementLog - {conn-10005, stmt-20000} closed
+[2020-03-11 23:06:30] DEBUG 137 statementLog - {conn-10005, pstmt-20001} created. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 23:06:30] DEBUG 134 statementLog - {conn-10005, pstmt-20001} created. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 23:06:30] DEBUG 134 statementLog - {conn-10005, pstmt-20001} Parameters : [1]
+[2020-03-11 23:06:30] DEBUG 134 statementLog - {conn-10005, pstmt-20001} Types : [INTEGER]
+[2020-03-11 23:06:30] DEBUG 137 statementLog - {conn-10005, pstmt-20001} Parameters : [1]
+[2020-03-11 23:06:30] DEBUG 137 statementLog - {conn-10005, pstmt-20001} Types : [INTEGER]
+[2020-03-11 23:06:31] DEBUG 137 statementLog - {conn-10005, pstmt-20001} executed. 761.875967 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 23:06:31] DEBUG 134 statementLog - {conn-10005, pstmt-20001} executed. 763.070406 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-11 23:06:31] DEBUG 134 statementLog - {conn-10005, pstmt-20001} clearParameters. 
+[2020-03-11 23:06:31] DEBUG 137 statementLog - {conn-10005, pstmt-20001} clearParameters. 
+[2020-03-12 15:38:38] DEBUG 137 statementLog - {conn-10005, stmt-20000} created
+[2020-03-12 15:38:39] DEBUG 137 statementLog - {conn-10005, stmt-20000, rs-50000} query executed. 698.090139 millis. /* ping */ SELECT 1
+[2020-03-12 15:38:39] DEBUG 134 statementLog - {conn-10005, stmt-20000, rs-50000} query executed. 700.161696 millis. /* ping */ SELECT 1
+[2020-03-12 15:38:39] DEBUG 137 statementLog - {conn-10005, stmt-20000} closed
+[2020-03-12 15:53:32] DEBUG 137 statementLog - {conn-10005, pstmt-20001} created. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-12 15:53:32] DEBUG 134 statementLog - {conn-10005, pstmt-20001} created. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-12 15:53:32] DEBUG 134 statementLog - {conn-10005, pstmt-20001} Parameters : [1]
+[2020-03-12 15:53:32] DEBUG 134 statementLog - {conn-10005, pstmt-20001} Types : [INTEGER]
+[2020-03-12 15:53:32] DEBUG 137 statementLog - {conn-10005, pstmt-20001} Parameters : [1]
+[2020-03-12 15:53:32] DEBUG 137 statementLog - {conn-10005, pstmt-20001} Types : [INTEGER]
+[2020-03-12 15:53:32] DEBUG 137 statementLog - {conn-10005, pstmt-20001} executed. 109.678802 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-12 15:53:32] DEBUG 134 statementLog - {conn-10005, pstmt-20001} executed. 110.296335 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-12 15:53:32] DEBUG 134 statementLog - {conn-10005, pstmt-20001} clearParameters. 
+[2020-03-12 15:53:32] DEBUG 137 statementLog - {conn-10005, pstmt-20001} clearParameters. 
+[2020-03-12 15:54:20] DEBUG 134 statementLog - {conn-10005, pstmt-20001} Parameters : [1]
+[2020-03-12 15:54:20] DEBUG 134 statementLog - {conn-10005, pstmt-20001} Types : [INTEGER]
+[2020-03-12 15:54:20] DEBUG 137 statementLog - {conn-10005, pstmt-20001} Parameters : [1]
+[2020-03-12 15:54:20] DEBUG 137 statementLog - {conn-10005, pstmt-20001} Types : [INTEGER]
+[2020-03-12 15:54:20] DEBUG 137 statementLog - {conn-10005, pstmt-20001} executed. 4.067421 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-12 15:54:20] DEBUG 134 statementLog - {conn-10005, pstmt-20001} executed. 4.80598 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-12 15:54:20] DEBUG 134 statementLog - {conn-10005, pstmt-20001} clearParameters. 
+[2020-03-12 15:54:20] DEBUG 137 statementLog - {conn-10005, pstmt-20001} clearParameters. 
+[2020-03-12 15:55:34] DEBUG 134 statementLog - {conn-10005, pstmt-20001} Parameters : [1]
+[2020-03-12 15:55:34] DEBUG 134 statementLog - {conn-10005, pstmt-20001} Types : [INTEGER]
+[2020-03-12 15:55:34] DEBUG 137 statementLog - {conn-10005, pstmt-20001} Parameters : [1]
+[2020-03-12 15:55:34] DEBUG 137 statementLog - {conn-10005, pstmt-20001} Types : [INTEGER]
+[2020-03-12 15:55:34] DEBUG 137 statementLog - {conn-10005, pstmt-20001} executed. 3.875831 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-12 15:55:34] DEBUG 134 statementLog - {conn-10005, pstmt-20001} executed. 4.638339 millis. SELECT  address_no,a_name,db_source,deleted  FROM address 
+ 
+ WHERE address_no = ?
+[2020-03-12 15:55:34] DEBUG 134 statementLog - {conn-10005, pstmt-20001} clearParameters. 
+[2020-03-12 15:55:34] DEBUG 137 statementLog - {conn-10005, pstmt-20001} clearParameters. 
+[2020-03-12 15:55:43] DEBUG 137 statementLog - {conn-10005, pstmt-20002} created. SELECT  address_no,a_name,db_source,deleted  FROM address
+[2020-03-12 15:55:43] DEBUG 134 statementLog - {conn-10005, pstmt-20002} created. SELECT  address_no,a_name,db_source,deleted  FROM address
+[2020-03-12 15:55:43] DEBUG 134 statementLog - {conn-10005, pstmt-20002} Parameters : []
+[2020-03-12 15:55:43] DEBUG 134 statementLog - {conn-10005, pstmt-20002} Types : []
+[2020-03-12 15:55:43] DEBUG 137 statementLog - {conn-10005, pstmt-20002} Parameters : []
+[2020-03-12 15:55:43] DEBUG 137 statementLog - {conn-10005, pstmt-20002} Types : []
+[2020-03-12 15:55:43] DEBUG 137 statementLog - {conn-10005, pstmt-20002} executed. 2.11304 millis. SELECT  address_no,a_name,db_source,deleted  FROM address
+[2020-03-12 15:55:43] DEBUG 134 statementLog - {conn-10005, pstmt-20002} executed. 2.632212 millis. SELECT  address_no,a_name,db_source,deleted  FROM address
+[2020-03-12 15:55:43] DEBUG 134 statementLog - {conn-10005, pstmt-20002} clearParameters. 
+[2020-03-12 15:55:43] DEBUG 137 statementLog - {conn-10005, pstmt-20002} clearParameters. 
+[2020-03-12 16:10:14] DEBUG 137 statementLog - {conn-10005, stmt-20003} created
+[2020-03-12 16:10:14] DEBUG 137 statementLog - {conn-10005, stmt-20003, rs-50005} query executed. 0.860012 millis. /* ping */ SELECT 1
+[2020-03-12 16:10:14] DEBUG 134 statementLog - {conn-10005, stmt-20003, rs-50005} query executed. 1.706768 millis. /* ping */ SELECT 1
+[2020-03-12 16:10:14] DEBUG 137 statementLog - {conn-10005, stmt-20003} closed
+[2020-03-12 16:16:18] DEBUG 134 statementLog - {conn-10005, pstmt-20002} Parameters : []
+[2020-03-12 16:16:18] DEBUG 134 statementLog - {conn-10005, pstmt-20002} Types : []
+[2020-03-12 16:16:18] DEBUG 137 statementLog - {conn-10005, pstmt-20002} Parameters : []
+[2020-03-12 16:16:18] DEBUG 137 statementLog - {conn-10005, pstmt-20002} Types : []
+[2020-03-12 16:16:18] DEBUG 137 statementLog - {conn-10005, pstmt-20002} executed. 3.014108 millis. SELECT  address_no,a_name,db_source,deleted  FROM address
+[2020-03-12 16:16:18] DEBUG 134 statementLog - {conn-10005, pstmt-20002} executed. 3.668846 millis. SELECT  address_no,a_name,db_source,deleted  FROM address
+[2020-03-12 16:16:18] DEBUG 134 statementLog - {conn-10005, pstmt-20002} clearParameters. 
+[2020-03-12 16:16:18] DEBUG 137 statementLog - {conn-10005, pstmt-20002} clearParameters. 
+[2020-03-12 16:19:50] DEBUG 134 statementLog - {conn-10005, pstmt-20002} Parameters : []
+[2020-03-12 16:19:50] DEBUG 134 statementLog - {conn-10005, pstmt-20002} Types : []
+[2020-03-12 16:19:50] DEBUG 137 statementLog - {conn-10005, pstmt-20002} Parameters : []
+[2020-03-12 16:19:50] DEBUG 137 statementLog - {conn-10005, pstmt-20002} Types : []
+[2020-03-12 16:19:50] DEBUG 137 statementLog - {conn-10005, pstmt-20002} executed. 3.296787 millis. SELECT  address_no,a_name,db_source,deleted  FROM address
+[2020-03-12 16:19:50] DEBUG 134 statementLog - {conn-10005, pstmt-20002} executed. 3.92715 millis. SELECT  address_no,a_name,db_source,deleted  FROM address
+[2020-03-12 16:19:50] DEBUG 134 statementLog - {conn-10005, pstmt-20002} clearParameters. 
+[2020-03-12 16:19:50] DEBUG 137 statementLog - {conn-10005, pstmt-20002} clearParameters. 
+[2020-03-13 00:26:57] DEBUG 137 statementLog - {conn-10005, stmt-20000} created
+[2020-03-13 00:26:57] DEBUG 137 statementLog - {conn-10005, stmt-20000, rs-50000} query executed. 770.483468 millis. /* ping */ SELECT 1
+[2020-03-13 00:26:57] DEBUG 134 statementLog - {conn-10005, stmt-20000, rs-50000} query executed. 776.015605 millis. /* ping */ SELECT 1
+[2020-03-13 00:26:57] DEBUG 137 statementLog - {conn-10005, stmt-20000} closed
+[2020-03-13 00:27:44] DEBUG 137 statementLog - {conn-10005, stmt-20000} created
+[2020-03-13 00:27:44] DEBUG 137 statementLog - {conn-10005, stmt-20000, rs-50000} query executed. 609.696549 millis. /* ping */ SELECT 1
+[2020-03-13 00:27:44] DEBUG 134 statementLog - {conn-10005, stmt-20000, rs-50000} query executed. 617.128754 millis. /* ping */ SELECT 1
+[2020-03-13 00:27:44] DEBUG 137 statementLog - {conn-10005, stmt-20000} closed

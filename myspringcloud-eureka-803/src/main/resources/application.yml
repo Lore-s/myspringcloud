@@ -1,0 +1,17 @@
+server:
+  port: 803
+
+spring:
+  application:
+    name: spring-cloud-eureka-server
+
+eureka:
+  instance:
+    hostname: eureka803.com
+  client:
+    ##让自己不需要注册在上面禁止客户端注册，表明自己是一个eureka server
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      #服务注册
+      defaultZone: http://eureka801.com:801/eureka,http://eureka802.com:802/eureka

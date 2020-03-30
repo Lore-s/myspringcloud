@@ -1,0 +1,22 @@
+server:
+  port: 80
+
+eureka:
+  client:
+    service-url:
+      # 注册到注册中心
+      #defaultZone: http://localhost:801/eureka/ 单机eureka，以下是集群eureka
+      defaultZone: http://eureka801.com:801/eureka/,http://eureka802.com:802/eureka/,http://eureka803.com:803/eureka/
+  #显示服务器IP加端口
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.cloud.client.ip-address}:${server.port}
+#actuator 监控信息完善
+info:
+  app.name: lihaoyi-myspringcloud
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+
+spring:
+  application:
+    name: myspringcloud-consumer

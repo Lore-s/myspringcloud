@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myspringcloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myspringcloud-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myspringcloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myspringcloud-eureka-802" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myspringcloud-eureka-803" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myspringcloud-provider" charset="UTF-8" />
+  </component>
+</project>

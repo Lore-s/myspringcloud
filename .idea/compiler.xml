@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myspringcloudapi" />
+        <module name="myspringcloudconsumer" />
+        <module name="myspringcloudeureka" />
+        <module name="myspringcloudeureka802" />
+        <module name="myspringcloudeureka803" />
+        <module name="myspringcloudprovider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myspringcloud-provider-address" target="1.8" />
+      <module name="myspringcloudprovideraddress8001" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="myspringcloud-provider-address" options="-parameters" />
+      <module name="myspringcloudapi" options="-parameters" />
+      <module name="myspringcloudconsumer" options="-parameters" />
+      <module name="myspringcloudeureka" options="-parameters" />
+      <module name="myspringcloudeureka802" options="-parameters" />
+      <module name="myspringcloudeureka803" options="-parameters" />
+      <module name="myspringcloudprovider" options="-parameters" />
+      <module name="myspringcloudprovideraddress8001" options="-parameters" />
+    </option>
+  </component>
+</project>
